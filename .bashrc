@@ -8,3 +8,6 @@ alias l='gls -CF --color=auto'
 
 export LESS='-l -M -R'
 
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
+
+
